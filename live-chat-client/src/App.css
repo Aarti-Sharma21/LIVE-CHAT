@@ -1,0 +1,13 @@
+*{
+margin: 0;
+}
+/* 1vh = 1% of entire height */
+
+.App{
+    background-color: #DDDEDD;
+    min-height: 100vh;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    
+}
